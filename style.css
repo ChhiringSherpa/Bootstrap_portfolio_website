@@ -1,0 +1,151 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.nav-item{
+    color: black;
+    margin-right: 50px;
+    
+}
+
+
+.intro {
+    margin-top: 250px;
+    
+}
+
+
+.my_links{
+    margin-top: 50px;
+}
+
+.contactme{
+    text-decoration: none;
+    color: black;
+}
+
+.my_intro{
+    margin-left: 10px;
+}
+.intro h1{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+}
+.intro h2{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 30px;
+}
+
+.intro p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    text-align: justify;
+}
+
+.b_learnmore{
+    text-align: left;
+
+}
+.b_hireme{
+    text-align: right;
+}
+
+
+
+.about{
+    background-color: rgb(236, 236, 236);
+   
+}
+
+.about_me{
+    margin-top: 200px;
+    padding-top: 20px;
+}
+.title_about , .title_contact{
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 100px;
+
+
+}
+
+
+.about_img{
+   max-width: 250px; 
+}
+
+.about_details{
+    padding-bottom: 80px;
+    
+}
+
+
+
+.about_details h1{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.about_details p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: justify;
+    font-size: 15px;
+    
+}
+
+.portfolio{
+    padding-top: 10px;
+}
+
+.portfolio h1{
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 60px;
+
+}
+
+.portfolio li{
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+.cv_button{
+    margin-right: 20px;
+}
+
+.gender{
+    padding-right: 20px;
+}
+form{
+    padding-bottom: 80px;
+}
+footer p{
+    margin-bottom: 0;
+}
+
+/* reponsive css code  */
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    ...
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { ... }
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { ... }*/
+ 
